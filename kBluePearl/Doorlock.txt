@@ -1,0 +1,98 @@
+Ajouter à votre Doorlock Config : 
+
+	{
+		textCoords = vector3(-1846.94819140625, -1189.7420478515625, 14.483670234680176),
+		authorizedJobs = {'bluepearl'},
+		locked = true,
+		maxDistance = 1.5,
+		doors = {
+			{objHash = GetHashKey('v_ilev_roc_door3'), objHeading = 149.6139373779297, objCoords = vector3(-1846.09619140625, -1190.6490478515625, 14.483670234680176)}
+		}
+	},
+
+
+	{
+		textCoords = vector3(-1839.3984794921875, -1185.281494140625, 14.460853576660156),
+		authorizedJobs = {'bluepearl'},
+		locked = true,
+		maxDistance = 3.5,
+		doors = {
+			{objHash = GetHashKey('v_ilev_staffdoor'), objHeading = -119.99077606201172, objCoords = vector3(-1839.0164794921875, -1184.281494140625, 14.460853576660156)}
+		}
+	},
+
+
+	{
+		textCoords = vector3(-1830.7569140625, -1181.7682861328125, 14.491851806640625),
+		authorizedJobs = {'bluepearl'},
+		locked = true,
+		maxDistance = 3.5,
+		doors = {
+			{objHash = GetHashKey('v_ilev_bk_door'), objHeading = 150.0155487060547, objCoords = vector3(-1831.5869140625, -1181.1182861328125, 14.491851806640625)}
+		}
+	},
+
+
+	{
+		textCoords = vector3(-1816.96942578125, -1194.3755166015625, 14.615678787231445),
+		authorizedJobs = {'bluepearl'},
+		locked = true,
+		maxDistance = 3.5,
+		doors = {
+			{objHash = GetHashKey('v_ilev_csr_door_l'), objHeading = 150.0155487060547, objCoords = vector3(-1816.08642578125, -1194.7545166015625, 14.615678787231445)},
+			{objHash = GetHashKey('v_ilev_csr_door_r'), objHeading = 150.0155487060547, objCoords = vector3(-1817.7425537109375, -1193.798828125, 14.621734619140625)}
+		}
+	},
+
+
+	{
+		textCoords = vector3(-1842.71642578125, -1198.8645166015625, 14.615678787231445),
+		authorizedJobs = {'bluepearl'},
+		locked = true,
+		maxDistance = 3.5,
+		doors = {
+			{objHash = GetHashKey('v_ilev_csr_door_l'), objHeading = -119.99077606201172, objCoords = vector3(-1842.127685546875, -1198.1258544921875, 14.607797622680664)},
+			{objHash = GetHashKey('v_ilev_csr_door_r'), objHeading = -119.99077606201172, objCoords = vector3(-1843.0819091796875, -1199.7791748046875, 14.614335060119629)}
+		}
+	},
+
+    {
+		textCoords = vector3(-1844.552, -1195.573, 19.370405197143555),
+		authorizedJobs = {'bluepearl'},
+		locked = true,
+		maxDistance = 1.5,
+		doors = {
+			{objHash = GetHashKey('v_ilev_bk_door2'), objHeading = 149.9698486328125, objCoords = vector3(-1845.38671875, -1194.8448486328125, 19.370405197143555)}
+		}
+	},
+
+    {
+		textCoords = vector3(-1831.256, -1181.06, 19.41224479675293),
+		authorizedJobs = {'bluepearl'},
+		locked = true,
+		maxDistance = 3.5,
+		doors = {
+			{objHash = GetHashKey('v_ilev_bk_door2'), objHeading = -30.129676818847656, objCoords = vector3(-1830.376953125, -1181.635009765625, 19.41224479675293)}
+		}
+	},
+
+    {
+		textCoords = vector3(-1843.431, -1194.721, 19.29018211364746),
+		authorizedJobs = {'bluepearl'},
+		locked = true,
+		maxDistance = 1.5,
+		doors = {
+			{objHash = GetHashKey('v_ilev_fa_backdoor'), objHeading = 60.1347770690918, objCoords = vector3(-1842.61474609375, -1193.884765625, 19.29018211364746)}
+		}
+	},
+
+    {
+		textCoords = vector3(-1823.169, -1201.066, 19.71875762939453),
+		authorizedJobs = {'bluepearl'},
+		locked = true,
+		maxDistance = 3.5,
+		doors = {
+			{objHash = GetHashKey('v_ilev_csr_door_l'), objHeading = 60.1347770690918, objCoords = vector3(-1823.642822265625, -1201.945068359375, 19.713876724243164)},
+            {objHash = GetHashKey('v_ilev_csr_door_r'), objHeading = 60.1347770690918, objCoords = vector3(-1822.6923828125, -1200.2899169921875, 19.71875762939453)}
+		}
+	},
